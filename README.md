@@ -4,5 +4,5 @@ A school community member graphical user interface data tool. Has the ability to
 # What I learned
 * Object Oriented Programming
 * How to create a graphical user interface
-* How to display information on GUI
-* How to save from text boxes
+* How to display data on text boxes
+* How to retrieve data from text boxes
