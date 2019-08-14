@@ -17,8 +17,8 @@ The application has the ability to add, display, update, and remove person objec
 #### Faculty Member Selected
 ![Image of School Faculty Member Selected](https://github.com/negrt/cv/blob/master/images/School%20Faculty%20Member%20Selected.png?raw=true)
 
-#### Create Button and Displaying Button Clicked
+#### Create Button and Display Button Clicked
 ![Image of School Displaying Member](https://github.com/negrt/cv/blob/master/images/School%20Displaying%20Member.png?raw=true)
 
-#### Updated Faculty Course Information
+#### Update Button and Dislay Button Clicked (Added a new course)
 ![Image of School Faculty Member Selected](https://github.com/negrt/cv/blob/master/images/School%20Updating%20Member.png?raw=true)
