@@ -8,7 +8,7 @@ A school community member graphical user interface data tool. Has the ability to
 * How to retrieve data from text boxes
 
 # Description and Images
-
+The application has the ability to add, display, update, and remove person object. Entering a name, selecting the type of member, and creating it will store the object in RAM. You can then display the member via JLabels located at the bottom of the application.
 
 ## Images
 #### Start Screen
