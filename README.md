@@ -6,3 +6,19 @@ A school community member graphical user interface data tool. Has the ability to
 * How to create a graphical user interface
 * How to display data on text boxes
 * How to retrieve data from text boxes
+
+# Description and Images
+
+
+## Images
+#### Start Screen
+![Image of School Faculty Member Selected](https://github.com/negrt/cv/blob/master/images/School%20Faculty%20Member%20Selected.png?raw=true)
+
+#### Faculty Member Selected
+![Image of School Faculty Member Selected](https://github.com/negrt/cv/blob/master/images/School%20Faculty%20Member%20Selected.png?raw=true)
+
+#### Create Button and Displaying Button Clicked
+![Image of School Displaying Member](https://github.com/negrt/cv/blob/master/images/School%20Displaying%20Member.png?raw=true)
+
+#### Faculty Member Selected
+![Image of School Faculty Member Selected](https://github.com/negrt/cv/blob/master/images/School%20Updating%20Member.png?raw=true)
